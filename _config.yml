@@ -10,7 +10,7 @@ title: Yikes!
 email: seventy6.com@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Keep your mind focused on one task across every screen you own.
-baseurl: "/yikes-landingpage/" # the subpath of your site, e.g. /blog
+baseurl: "/yikes-landingpage" # the subpath of your site, e.g. /blog
 url: "https://seventy6.github.io/" # the base hostname & protocol for your site
 twitter_username: nickwforsberg
 github_username:  seventy6
